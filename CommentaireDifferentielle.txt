@@ -1,0 +1,25 @@
+Seaside - Rousseau / Ferlicot
+
+Tour 7
+
+Au tour 7 nous pouvons remarquer que le résultat courant correspond à près de 23% du CA et que le seuil de rentabilité et le seuil de rentabilité correspond à un peu plus de 52% du CA. Ceci est très bon.
+
+Les bateaux A ont une rentabilité de 20% et le seuil de rentabilité est atteind à 67% de la vente de bateaux A.
+
+Les bateaux B ont une rentabilité de 23% et le seuil de rentabilité est atteind à 45% de la vente de bateaux B.
+
+Les bateaux C ont une rentabilité de 23% et le seuil de rentabilité est atteind à 52% de la vente de bateaux C.
+
+Tous nos bateaux ont une rentabilité proche mais le seuil de rentabilité est long à atteindre dans le cas des bateaux A. Il pourrait être réduit.
+
+Tour 8
+
+Au tour 8 nous pouvons remarquer que le résultat courant correspond à près de 21% du CA et que le seuil de rentabilité et le seuil de rentabilité correspond à un peu plus de 55% du CA. Ceci est très bon.
+
+Les bateaux A ont une rentabilité de 21% et le seuil de rentabilité est atteind à 64% de la vente de bateaux A.
+
+Les bateaux B ont une rentabilité de 22% et le seuil de rentabilité est atteind à 48% de la vente de bateaux B.
+
+Les bateaux C ont une rentabilité de 26% et le seuil de rentabilité est atteind à 56% de la vente de bateaux C.
+
+Tous nos bateaux ont une rentabilité proche. Il y a peu d'évolution depuis le tour 7. Nous avons réussi à améliorer la rentabilité des bateau A.
